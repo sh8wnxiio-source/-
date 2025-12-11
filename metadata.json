@@ -1,0 +1,7 @@
+{
+  "name": "Chris马s Pony AR Magic",
+  "description": "An interactive AR experience where magical ponies appear on your open palms. Show one hand for a classic pony, or two for a festive Christmas surprise!",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
